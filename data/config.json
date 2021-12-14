@@ -1,0 +1,12 @@
+{
+  "status": 0,
+  "calibration_instruction": "Calibration ready. Click keyboard key to add event.",
+  "port": 8001,
+  "log_file": "output.log",
+  "server_port": 9000,
+  "specs_type": "s",
+  "log_folder": "./logs/",
+  "muted": true,
+  "module_type": "module-keyboard",
+  "unique_name": "test"
+}
