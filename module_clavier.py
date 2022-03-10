@@ -7,6 +7,7 @@ from module_abstract import *
 
 # keyboard
 import keyboard
+import sys
 
 
 # class for module poids inherited from abstract class

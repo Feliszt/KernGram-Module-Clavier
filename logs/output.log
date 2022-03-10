@@ -64,3 +64,89 @@
 2021-12-14 17:28:53,098 [INFO] [module-keyboard - test] Event [3 - 3] is UP
 2021-12-14 17:28:57,199 [INFO] [module-keyboard - test] Event [3 - 3] is UP
 2021-12-14 17:28:58,549 [INFO] [module-keyboard - test] Event [3 - 3] is UP
+2022-03-08 17:03:27,129 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:03:27,130 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:29,135 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:31,146 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:33,161 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:35,176 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:37,177 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:39,188 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:03:41,188 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:19:42,680 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:19:42,680 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:19:44,691 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:19:46,702 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:19:48,716 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:24:41,107 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:24:41,108 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:28:54,130 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:28:54,132 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:30:00,424 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:30:00,425 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:30:24,955 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:30:24,957 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:30:26,971 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:30:32,661 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:30:32,663 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:31:21,191 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:31:21,193 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:31:25,697 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:31:25,699 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:31:49,990 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:31:49,993 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:31:52,000 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:32:01,241 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:32:01,242 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:32:07,883 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:32:07,885 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:32:09,899 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:32:36,458 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:32:36,460 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:32:51,959 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:32:51,961 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:33:13,284 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:33:13,288 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:33:23,873 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:33:23,875 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:33:25,885 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:33:27,894 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:37:40,790 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:37:40,791 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:37:48,599 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:37:48,600 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:37:50,607 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:39:13,866 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:39:13,869 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:44:45,699 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:44:45,701 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:44:47,716 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:44:59,273 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:44:59,274 [INFO] [module-keyboard - test] Attempt to connect to server with IP [10.209.7.69].
+2022-03-08 17:46:52,217 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:46:52,220 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:46:54,232 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:46:56,239 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:52:52,127 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:52:52,127 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:52:54,133 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:52:56,142 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:52:58,153 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:00,155 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:02,157 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:04,163 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:06,170 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:08,171 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:10,186 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:53:12,189 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:59:20,759 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 17:59:20,760 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:59:22,769 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:59:24,771 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 17:59:26,776 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 18:05:49,558 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 18:05:49,559 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 18:05:49,561 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-08 18:16:28,772 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-08 18:16:28,773 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-08 18:16:28,777 [INFO] [module-keyboard - test] Connected to server with id [0]
