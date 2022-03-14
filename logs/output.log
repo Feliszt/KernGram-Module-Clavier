@@ -150,3 +150,109 @@
 2022-03-08 18:16:28,772 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
 2022-03-08 18:16:28,773 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
 2022-03-08 18:16:28,777 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 16:35:51,127 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 16:35:51,128 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:35:53,142 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:35:55,143 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:35:57,154 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:35:59,169 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:36:01,184 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:49:19,570 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 16:49:19,570 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:49:21,580 [INFO] [module-keyboard - test] Attempt to connect to server with IP [127.0.0.1].
+2022-03-10 16:50:29,966 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 16:50:29,967 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 16:50:30,179 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 16:50:42,226 [INFO] [module-keyboard - test] Event [6 - 6] is UP
+2022-03-10 16:51:36,954 [INFO] [module-keyboard - test] Event [6 - 6] is UP
+2022-03-10 16:56:56,105 [INFO] [module-keyboard - test] Event [6 - 6] is UP
+2022-03-10 16:57:02,202 [INFO] [module-keyboard - test] Event [6 - 6] is UP
+2022-03-10 16:58:36,944 [INFO] [module-keyboard - test] Event [6 - 6] is UP
+2022-03-10 16:58:42,250 [INFO] [module-keyboard - test] Event [6 - 6] is UP
+2022-03-10 16:59:07,135 [INFO] [module-keyboard - test] Removing event 5
+2022-03-10 16:59:07,658 [INFO] [module-keyboard - test] Removing event 6
+2022-03-10 16:59:37,896 [INFO] [module-keyboard - test] Module starts calibration.
+2022-03-10 16:59:51,737 [INFO] [module-keyboard - test] Module ends calibration.
+2022-03-10 16:59:53,823 [INFO] [module-keyboard - test] Module starts calibration.
+2022-03-10 17:00:06,843 [INFO] [module-keyboard - test] Module ends calibration.
+2022-03-10 17:00:13,102 [INFO] [module-keyboard - test] Save level [c] with temp name.
+2022-03-10 17:00:19,573 [INFO] [module-keyboard - test] Save level [tab] with temp name.
+2022-03-10 17:02:55,541 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:02:55,542 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:02:57,555 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:02:57,597 [INFO] [module-keyboard - test] Connected to server with id [1]
+2022-03-10 17:03:07,167 [INFO] [module-keyboard - test] Module starts calibration.
+2022-03-10 17:03:15,151 [INFO] [module-keyboard - test] Save level [m] with temp name.
+2022-03-10 17:03:19,305 [INFO] [module-keyboard - test] Save level [tab] with temp name.
+2022-03-10 17:03:22,994 [INFO] [module-keyboard - test] Editing (temp) event with info (m, 0).
+2022-03-10 17:03:23,667 [INFO] [module-keyboard - test] Save level [m] with temp name.
+2022-03-10 17:03:54,204 [INFO] [module-keyboard - test] Module ends calibration.
+2022-03-10 17:03:56,741 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:06:46,546 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:06:46,547 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:06:48,554 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:06:50,556 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:06:52,564 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:06:54,577 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:06:56,589 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:06:56,709 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:07:03,217 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:07:07,856 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:32,443 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:18:32,444 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:18:32,535 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:18:43,662 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:46,513 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:47,869 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:48,931 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:50,014 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:51,052 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:52,111 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:18:53,169 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:23:39,450 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:23:39,451 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:23:39,542 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:23:43,775 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:30:26,439 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:30:26,440 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:30:28,446 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:30:28,534 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:30:30,787 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:32:52,689 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:32:52,691 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:32:54,696 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:32:56,706 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:32:58,708 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:33:00,709 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:33:00,809 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:33:02,515 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:36:22,736 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:36:22,738 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:36:24,745 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:36:26,746 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:36:28,749 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:36:30,764 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:36:30,776 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:36:32,089 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:37:31,700 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:37:31,703 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:37:31,764 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:37:34,041 [INFO] [module-keyboard - test] Event [0 - 0] is UP
+2022-03-10 17:40:45,252 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:40:45,254 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:40:47,258 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:40:47,288 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:40:48,507 [INFO] [module-keyboard - test] Event [0 - 0] is DOWN
+2022-03-10 17:47:54,804 [INFO] [module-keyboard - test] Event [0 - 0] is DOWN
+2022-03-10 17:48:55,961 [INFO] [module-keyboard - test] Event [0 - 0] is DOWN
+2022-03-10 17:50:07,192 [INFO] [module-keyboard - test] Module type [module-keyboard] with name [test] starts.
+2022-03-10 17:50:07,193 [INFO] [module-keyboard - test] Attempt to connect to server with IP [192.168.1.48].
+2022-03-10 17:50:07,290 [INFO] [module-keyboard - test] Connected to server with id [0]
+2022-03-10 17:50:26,742 [INFO] [module-keyboard - test] Module starts calibration.
+2022-03-10 17:50:31,267 [INFO] [module-keyboard - test] Save level [r] with temp name.
+2022-03-10 17:50:32,621 [INFO] [module-keyboard - test] Save level [r] with temp name.
+2022-03-10 17:50:32,914 [INFO] [module-keyboard - test] Editing (temp) event with info (r, 1).
+2022-03-10 17:50:38,374 [INFO] [module-keyboard - test] Editing event 1 : r => r.
+2022-03-10 17:50:42,750 [INFO] [module-keyboard - test] Module ends calibration.
+2022-03-10 17:50:43,851 [INFO] [module-keyboard - test] Event [0 - 0] is DOWN
+2022-03-10 17:50:46,217 [INFO] [module-keyboard - test] Event [1 - 1] is DOWN

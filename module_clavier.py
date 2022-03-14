@@ -34,13 +34,12 @@ class KernGram_Clavier(KernGramModule) :
 
             # key is down
             if pingpong :
-
                 # if play state and calib is not empty
                 if self.module_state == 0 and self.calib["events"]:
                     for event in self.calib["events"] :
                         if recorded == event["specs"][0] :
-                            logging.info("Event [{} - {}] is UP".format(event["id"], event["id"]))
-                            self.send_osc_message("/event", True, (self.ID, 'i'), (event["id"], 'i'), ("UP", 's'))
+                            logging.info("Event [{} - {}] is DOWN".format(event["id"], event["id"]))
+                            self.send_osc_message("/event", True, (self.ID, 'i'), (event["id"], 'i'), ("DOWN", 's'))
 
                 # if calibration state
                 if self.module_state == 1 :

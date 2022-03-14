@@ -1,5 +1,5 @@
 {
-  "local": true,
+  "local": false,
   "status": 0,
   "calibration_instruction": "Calibration ready. Click keyboard key to add event.",
   "port": 8001,
