@@ -8,6 +8,6 @@
   "specs_type": "s",
   "log_folder": "./logs/",
   "muted": true,
-  "module_type": "module-keyboard",
-  "unique_name": "test"
+  "module_type": "module-clavier",
+  "unique_name": "module-clavier-dev"
 }
