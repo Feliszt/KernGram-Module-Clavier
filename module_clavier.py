@@ -19,8 +19,8 @@ class KernGram_Clavier(KernGramModule) :
         logging.info("Module type [{}] with name [{}] starts.".format(self.config["module_type"], self.config["unique_name"]))
 
         # variables
-        self.key_history_size       = 8
-        self.key_check_time         = 0.05
+        self.key_history_size       = self.config["key_history_size"]
+        self.key_check_time         = self.config["key_check_time"]
         self.key_history            = []
         self.curr_key_pressed       = ''
         self.keys_held              = []
@@ -88,7 +88,7 @@ class KernGram_Clavier(KernGramModule) :
 
             #
             #print(threading.active_count())
-            print(self.key_history)
+            #print(self.key_history)
             #print(self.keys_held)
             #print(self.keyboard_state)
             self.keyboard_state_prev = self.keyboard_state

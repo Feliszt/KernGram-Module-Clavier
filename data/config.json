@@ -7,7 +7,8 @@
   "server_port": 9000,
   "specs_type": "s",
   "log_folder": "./logs/",
-  "muted": true,
   "module_type": "module-clavier",
-  "unique_name": "module-clavier-dev"
+  "unique_name": "module-clavier-dev",
+  "key_history_size" : 8,
+  "key_check_time" : 0.05
 }
