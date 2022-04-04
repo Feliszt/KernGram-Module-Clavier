@@ -106,7 +106,12 @@ class KernGram_Clavier(KernGramModule) :
 
         # if calibration state
         if self.module_state == 1 :
+            if str(key) in [el["specs"][0] for el in self.calib["events"]] :
+                logging.info("Cannot calibrate event [{}], already present in the current calibration.".format(str(key)))
+                self.send_osc_message("/invalid_event", False, (self.ID, 'i'), ("Cannot calibrate event [{}], already present in the current calibration.".format(str(key)), 's'))
+                return
             # save level
+            print(self.calib["events"])
             self.can_register_event([str(key)])
             logging.info("Save level [{}] with temp name.".format(key))
 
@@ -127,4 +132,4 @@ class KernGram_Clavier(KernGramModule) :
             return
 
         # notify server
-        self.send_osc_message("/ready_calibrate", True,(self.ID, 'i'), (self.config["calibration_instruction"], 's'))
+        self.send_osc_message("/ready_calibrate", False, (self.ID, 'i'), (self.config["calibration_instruction"], 's'))
