@@ -110,10 +110,9 @@ class KernGram_Clavier(KernGramModule) :
                 logging.info("Cannot calibrate event [{}], already present in the current calibration.".format(str(key)))
                 self.send_osc_message("/invalid_event", False, (self.ID, 'i'), ("Cannot calibrate event [{}], already present in the current calibration.".format(str(key)), 's'))
                 return
-            # save level
-            print(self.calib["events"])
+            # save levels
             self.can_register_event([str(key)])
-            logging.info("Save level [{}] with temp name.".format(key))
+            logging.info("Save level [{}] with temp name.".format(str(key)))
 
 
     # a key has been released

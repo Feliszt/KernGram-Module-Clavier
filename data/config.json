@@ -1,5 +1,5 @@
 {
-  "local": false,
+  "server-ip": "192.168.1.136",
   "status": 0,
   "calibration_instruction": "Calibration ready. Click keyboard key to add event.",
   "port": 8001,
@@ -8,7 +8,7 @@
   "specs_type": "s",
   "log_folder": "./logs/",
   "module_type": "module-clavier",
-  "unique_name": "module-clavier-dev02",
-  "key_history_size" : 12,
+  "unique_name": "module-clavier-dev04",
+  "key_history_size" : 8,
   "key_check_time" : 0.05
 }

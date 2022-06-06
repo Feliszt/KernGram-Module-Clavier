@@ -83,9 +83,10 @@ class Clavier_process() :
 
             #
             #print(threading.active_count())
-            #print(self.key_history)
+            print(self.key_history)
             #print(self.keyboard_state)
             self.keyboard_state_prev = self.keyboard_state
             time.sleep(self.key_check_time)
 
 clavier_Test = Clavier_process()
+q
